@@ -3,7 +3,7 @@
 
 pub mod ciff;
 pub mod index;
-mod proto;
+pub mod proto;
 pub mod query;
 pub mod search;
 pub mod util;
