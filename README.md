@@ -50,7 +50,7 @@ trec_eval -M 10 -m recip_rank qrels.msmarco-passage.dev-subset.txt bp-msmarco-pa
 
 ### Install
 
-Form PyPi:
+From PyPi:
 
 ```sh
 pip install bmp
